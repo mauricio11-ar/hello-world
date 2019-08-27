@@ -6,7 +6,8 @@ Proyecto inicial para aprender a manejar y usar git y github
 
 Que se hizo en la rama readme-edits
 
-+cambio1
-+cambio2
+*Cambio1
+*Cambio2
+
 
 > Modiciación en el archivo para nuevo commit
